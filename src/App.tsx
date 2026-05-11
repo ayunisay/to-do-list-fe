@@ -1,7 +1,7 @@
 // import { useState } from 'react'
 import './App.css'
 import '@radix-ui/themes/styles.css'
-import { Theme, Container, Grid, Flex, Box, Text } from '@radix-ui/themes'
+import { Theme, Container, Grid } from '@radix-ui/themes'
 import LeftMenu from './LeftMenu'
 import Overview from './Overview'
 

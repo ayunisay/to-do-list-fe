@@ -1,4 +1,4 @@
-import {Box, Text, Flex} from "@radix-ui/themes";
+import { Box } from "@radix-ui/themes";
 
 function Overview() {
     return(
